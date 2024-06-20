@@ -7,7 +7,7 @@ This licence agreement (this “**Agreement**”) sets out the terms relating to
 This Agreement, which contains legally binding provisions, is initially entered into between: 
 
 
-* **Crown Education Limited**, a company incorporated under the laws of Hong Kong (“**Creator**”); and 
+* **Crowd Education Limited**, a company incorporated under the laws of Hong Kong (“**Creator**”); and 
 
 
 * the individual or entity who is the recorded owner of **Mocaverse NFTs with token ID [####]** and who has expressly accepted the terms of this Agreement by inserting their electronic signature below (“**you**”). 
